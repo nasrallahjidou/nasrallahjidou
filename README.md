@@ -1,4 +1,3 @@
-<div align="center">
 
 ```
 ███╗   ██╗ █████╗ ███████╗███████╗███████╗██████╗
@@ -86,7 +85,9 @@ I can help you with:
 
 ### `▸ ACTIVITY LOG`
 
-[![Nasser's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nasrallahjidou&theme=chartreuse-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasrallahjidou&theme=github_dark)
+![Repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasrallahjidou&theme=github_dark)
+![Most commit language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nasrallahjidou&theme=github_dark)
 
 <!-- Snake animation: see the comment at the end of this file to enable it -->
 
