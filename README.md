@@ -11,7 +11,7 @@
 
 `ⵣ ⴰⴱⴳⴷⴻ ⵡⴰⵢ ⵜⴰⵎⴰⵣⵖⴰ ⵣ ⴰⴳⴻⵍⴰ ⵣ ⵢⴰⵏ ⵜⴰⵖⴰⵍⵜ ⵣ`
 
-<img src="./973692381942035453.jpg.jpg" alt="Project.exe — hands reaching toward each other" width="736"/>
+<img src="./973692381942035453.jpg" alt="Project.exe — hands reaching toward each other" width="736"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+AI+%26+Data+Engineering+Student;Turning+raw+data+into+decisions;Freelancer+%E2%80%94+available+for+hire)](https://git.io/typing-svg)
 
