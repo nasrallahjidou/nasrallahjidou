@@ -1,166 +1,112 @@
+<div align="center">
 
-```
-███╗   ██╗ █████╗ ███████╗███████╗███████╗██████╗
-████╗  ██║██╔══██╗██╔════╝██╔════╝██╔════╝██╔══██╗
-██╔██╗ ██║███████║███████╗███████╗█████╗  ██████╔╝
-██║╚██╗██║██╔══██║╚════██║╚════██║██╔══╝  ██╔══██╗
-██║ ╚████║██║  ██║███████║███████║███████╗██║  ██║
-╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c853&height=200&section=header&text=Nasser&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Analyst%20%7C%20AI%20%26%20Data%20Engineering%20Student&descSize=18&descAlignY=60" width="100%" />
 
-`ⵣ ⴰⴱⴳⴷⴻ ⵡⴰⵢ ⵜⴰⵎⴰⵣⵖⴰ ⵣ ⴰⴳⴻⵍⴰ ⵣ ⵢⴰⵏ ⵜⴰⵖⴰⵍⵜ ⵣ`
+**ⵣ ⴰⵣⵓⵍ ⵣ**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+AI+Engineering+Student;Turning+raw+data+into+decisions+%F0%9F%93%8A;Freelancer+%E2%80%94+available+for+hire+%F0%9F%9A%80)](https://git.io/typing-svg)
+<a href="https://github.com/Nasrallahjidou">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Data+Analyst;AI+%26+Data+Engineering+Student;Turning+raw+data+into+decisions;Available+for+freelance+work" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="mailto:nasserthebest9@gmail.com"><img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00C853?style=for-the-badge" alt="Open to work" /></a>
 
 </div>
 
-<!-- ═════════════════════════ SUMMARY ═════════════════════════ -->
+<br/>
 
-### `▸ SUMMARY`
+## Summary
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasrallahjidou&layout=compact&theme=chartreuse-dark&hide_border=true" width="300"/>
+I'm **Nasser**, an AI & Data Engineering student and currently a **Data Analyst**, based in Morocco.
+I help businesses make sense of their data and automate repetitive work with Python.
 
-👋 Hi, I'm **Nasser** — a Data Analyst and AI Engineering & IT student.
-I help businesses **understand their data**, build **machine learning models**, and automate the boring stuff with Python.
+- Working on data analysis, automation and dashboard projects
+- Studying Artificial Intelligence & Data Engineering
+- Open to freelance missions
+- Speaking Tamazight, Arabic, English and a little French
 
-- 🔭 Currently working on **data analysis & ML projects**
-- 🎓 Studying **Artificial Intelligence Engineering & IT**
-- 💼 Open to **freelance missions** — analysis, dashboards, ML models
-- 🌱 Always learning something new in **AI & data**
-- 📍 Based in Morocco
+---
 
-<br clear="right"/>
-
-<!-- ══════════════════════════ SKILLS ═════════════════════════ -->
-
-### `▸ SYSTEM SPECS / SKILLS`
-
-**Languages & Data**
-
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgresql,sqlite&theme=dark)](https://skillicons.dev)
-
-**AI / ML**
-
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark)](https://skillicons.dev)
-
-**Tools & Environment**
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark)](https://skillicons.dev)
-
-> `data toolkit:` `pandas` `numpy` `matplotlib` `seaborn` `powerbi` `excel` `scikit-learn`
-
-<!-- ══════════════════════════ STATS ═════════════════════════= -->
-
-### `▸ PERFORMANCE METRICS`
+## Skills & Tools
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasrallahjidou&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/nasrallahjidou)
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,docker,blender&theme=dark" alt="skills" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nasrallahjidou&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
+<br/><br/>
 
-</div>
-
-<!-- ════════════════════════ FREELANCE ════════════════════════ -->
-
-### `▸ FREELANCE MODULE`
-
-<div align="center">
-
-[![Available for freelance](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-brightgreen?style=for-the-badge&logo=upwork&logoColor=white)](mailto:YOUR-EMAIL-HERE)
-
-</div>
-
-I can help you with:
-
-- 📊 **Data analysis & cleaning** — messy data → clear insights
-- 📈 **Dashboards & visualization** — Power BI / Matplotlib / Seaborn
-- 🤖 **Machine learning models** — prediction, classification, NLP basics
-- 🐍 **Python automation** — scripts that save you hours
-- 🗄️ **SQL** — queries, database design, reporting
-
-> 💬 *Have a project in mind? Let's talk — the first consultation is free.*
-
-<!-- ════════════════════════ ACTIVITY LOG ═════════════════════ -->
-
-### `▸ ACTIVITY LOG`
-
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasrallahjidou&theme=github_dark)
-![Repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasrallahjidou&theme=github_dark)
-![Most commit language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nasrallahjidou&theme=github_dark)
-
-<!-- Snake animation: see the comment at the end of this file to enable it -->
-
-<!-- ════════════════════════ CONTACT ═════════════════════════ -->
-
-### `▸ PORTS / CONTACT`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-nasrallahjidou-181717?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/nasrallahjidou)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
-[![Gmail](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/YOUR-UPWORK-HERE)
-
-</div>
-
-<div align="center">
-
-`ⵣ ⴰⵣⵓⵍ ⴼⵍⵍⴰⵡ ⵏⵏⴽ ⴰⵖⴰⵜⴰⵢ ⵏⵖ ⴽⵓⵢⴰⵏ ⴳⵔ ⵜⵏⵖⴰⵡⵙⵙ ⴳⵉⵙ ⵓⵏⵖⴰⴷ ⵏⵏⴽ ⵣ`
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+<img src="https://img.shields.io/badge/Zabbix-DC0000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 
 </div>
 
 ---
 
+## Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **ARMA Digital Portal** | Automated web application that digitizes and streamlines a real workflow. | Add your stack |
+| **Amazon Price Tracker** | Automated pipeline: web scraping, SQLite storage, SMTP email alerts and a Streamlit dashboard. | Python, SQLite, Streamlit, SMTP |
+
+<sub>Repository links: [github.com/Nasrallahjidou?tab=repositories](https://github.com/Nasrallahjidou?tab=repositories)</sub>
+<!-- TODO: replace with the direct repo links of each project, and fill in ARMA's stack -->
+
+---
+
+## Freelance Services
+
+| Service | Description |
+|---|---|
+| **Data analysis & cleaning** | Turn messy data into clear, reliable insights. |
+| **Dashboards & visualization** | Interactive dashboards so you can see your data and act on it. |
+| **Web scraping & pipelines** | Automated collection, storage and alerts, with no manual steps. |
+| **Python automation** | Scripts and small apps that save hours of repetitive work. |
+
+Have a project in mind? Send me a message and tell me the problem.
+
+---
+
+## GitHub Stats
+
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=nasrallahjidou&color=brightgreen&style=flat&label=PROFILE+VIEWS)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nasrallahjidou&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasrallahjidou&layout=compact&theme=chartreuse-dark&hide_border=true" alt="top languages" />
 
-`© 2026 NASSER — built with 💚 and a lot of ⵣ`
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Nasrallahjidou&theme=chartreuse-dark&hide_border=true" alt="streak" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nasrallahjidou/Nasrallahjidou/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nasrallahjidou/Nasrallahjidou/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Nasrallahjidou/Nasrallahjidou/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
-<!--
-═══════════════════════════════════════════════════════════════════
-🐍 OPTIONAL: SNAKE ANIMATION (eats your contribution graph)
-═══════════════════════════════════════════════════════════════════
+---
 
-1. Create a repo named EXACTLY like your username: `nasrallahjidou/nasrallahjidou`
-2. Add this file as `.github/workflows/snake.yml`:
+## Contact
 
-name: Generate snake animation
+<div align="center">
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-    - main
+<a href="https://www.linkedin.com/in/nasrallah-jidou-6a3133374"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:nasserthebest9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Nasrallahjidou"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: nasrallahjidou
-          outputs: dist/snake.svg?palette=github-dark
+<br/><br/>
 
-      - name: Push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<img src="https://komarev.com/ghpvc/?username=Nasrallahjidou&label=Profile%20views&color=00c853&style=flat-square" alt="views" />
 
-3. Then uncomment this line and place it anywhere you like:
+**ⵣ**
 
-<img src="https://raw.githubusercontent.com/nasrallahjidou/nasrallahjidou/output/snake.svg" alt="snake eating my contributions" />
-═══════════════════════════════════════════════════════════════════
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c853&height=100&section=footer" width="100%" />
+
+</div>
