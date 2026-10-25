@@ -1,112 +1,105 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c853&height=200&section=header&text=Nasser&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Analyst%20%7C%20AI%20%26%20Data%20Engineering%20Student&descSize=18&descAlignY=60" width="100%" />
+```text
+███╗   ██╗ █████╗ ███████╗███████╗███████╗██████╗
+████╗  ██║██╔══██╗██╔════╝██╔════╝██╔════╝██╔══██╗
+██╔██╗ ██║███████║███████╗███████╗█████╗  ██████╔╝
+██║╚██╗██║██╔══██║╚════██║╚════██║██╔══╝  ██╔══██╗
+██║ ╚████║██║  ██║███████║███████║███████╗██║  ██║
+╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-**ⵣ ⴰⵣⵓⵍ ⵣ**
+### Nasser Jidou
+**Data Analyst · AI & Data Engineering Student**
 
-<a href="https://github.com/Nasrallahjidou">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Data+Analyst;AI+%26+Data+Engineering+Student;Turning+raw+data+into+decisions;Available+for+freelance+work" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+useful+insights;Building+with+Python%2C+SQL+and+machine+learning;Learning+in+public+and+improving+every+day)](https://git.io/typing-svg)
 
-<br/>
-
-<a href="mailto:nasserthebest9@gmail.com"><img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00C853?style=for-the-badge" alt="Open to work" /></a>
-
-</div>
-
-<br/>
-
-## Summary
-
-I'm **Nasser**, an AI & Data Engineering student and currently a **Data Analyst**, based in Morocco.
-I help businesses make sense of their data and automate repetitive work with Python.
-
-- Working on data analysis, automation and dashboard projects
-- Studying Artificial Intelligence & Data Engineering
-- Open to freelance missions
-- Speaking Tamazight, Arabic, English and a little French
-
----
-
-## Skills & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,docker,blender&theme=dark" alt="skills" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-<img src="https://img.shields.io/badge/Zabbix-DC0000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nasser_Jidou-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasrallah-jidou-6a3133374/)
+[![Email](https://img.shields.io/badge/Email-nasserthebest9%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nasserthebest9@gmail.com)
 
 </div>
 
 ---
 
-## Featured Projects
+## About me
 
-| Project | What it does | Stack |
-|---|---|---|
-| **ARMA Digital Portal** | Automated web application that digitizes and streamlines a real workflow. | Add your stack |
-| **Amazon Price Tracker** | Automated pipeline: web scraping, SQLite storage, SMTP email alerts and a Streamlit dashboard. | Python, SQLite, Streamlit, SMTP |
+I’m a **Data Analyst** and **AI & Data Engineering student** based in Morocco. I enjoy transforming raw data into clear insights, building practical machine-learning projects, and automating repetitive work with Python.
 
-<sub>Repository links: [github.com/Nasrallahjidou?tab=repositories](https://github.com/Nasrallahjidou?tab=repositories)</sub>
-<!-- TODO: replace with the direct repo links of each project, and fill in ARMA's stack -->
+- **Current role:** Data Analyst
+- **Studies:** AI & Data Engineering
+- **Focus:** Data analysis, machine learning, and Python automation
+- **Open to:** Freelance projects, internships, and collaboration
+- **Learning approach:** Build, measure, document, and improve
 
----
+## Technical toolkit
 
-## Freelance Services
-
-| Service | Description |
+| Area | Tools and technologies |
 |---|---|
-| **Data analysis & cleaning** | Turn messy data into clear, reliable insights. |
-| **Dashboards & visualization** | Interactive dashboards so you can see your data and act on it. |
-| **Web scraping & pipelines** | Automated collection, storage and alerts, with no manual steps. |
-| **Python automation** | Scripts and small apps that save hours of repetitive work. |
-
-Have a project in mind? Send me a message and tell me the problem.
-
----
-
-## GitHub Stats
+| **Programming & data** | Python, SQL, MySQL, PostgreSQL, SQLite |
+| **Data analysis** | pandas, NumPy, Matplotlib, Seaborn, Excel, Power BI |
+| **AI & machine learning** | scikit-learn, TensorFlow, PyTorch |
+| **Development** | VS Code, Git, GitHub, Linux, Docker |
+| **Platforms & other tools** | Kaggle, Blender, Zabbix |
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nasrallahjidou&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasrallahjidou&layout=compact&theme=chartreuse-dark&hide_border=true" alt="top languages" />
+[![Core tools](https://skillicons.dev/icons?i=python,mysql,postgresql,sqlite,tensorflow,pytorch,sklearn&theme=dark)](https://skillicons.dev)
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Nasrallahjidou&theme=chartreuse-dark&hide_border=true" alt="streak" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nasrallahjidou/Nasrallahjidou/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nasrallahjidou/Nasrallahjidou/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Nasrallahjidou/Nasrallahjidou/output/github-snake-dark.svg" />
-</picture>
+[![Workflow tools](https://skillicons.dev/icons?i=vscode,git,github,linux,docker,blender&theme=dark)](https://skillicons.dev)
 
 </div>
 
----
+## What I can help with
 
-## Contact
+**Data analysis and cleaning**  
+Prepare unreliable or messy datasets and turn them into accurate, useful insights.
+
+**Dashboards and visualization**  
+Create clear reports and visualizations with Power BI, Matplotlib, and Seaborn.
+
+**Machine learning**  
+Develop practical prediction, classification, and introductory NLP solutions.
+
+**Python automation**  
+Build scripts and workflows that reduce repetitive manual work.
+
+**SQL and reporting**  
+Write queries, organize data, and produce reliable business reports.
+
+## Current progress
+
+```text
+Data analysis        ████████████████░░░░   Building real-world projects
+Machine learning     ████████████░░░░░░░░   Strengthening model fundamentals
+AI engineering       ██████████░░░░░░░░░░   Learning through hands-on work
+```
+
+## GitHub activity
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/nasrallah-jidou-6a3133374"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:nasserthebest9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Nasrallahjidou"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=nasrallahjidou&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Nasser's GitHub statistics" height="165"/>
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasrallahjidou&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Most used programming languages" height="165"/>
 
-<img src="https://komarev.com/ghpvc/?username=Nasrallahjidou&label=Profile%20views&color=00c853&style=flat-square" alt="views" />
+<img src="https://streak-stats.demolab.com?user=nasrallahjidou&theme=chartreuse-dark&hide_border=true" alt="GitHub contribution streak"/>
 
-**ⵣ**
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c853&height=100&section=footer" width="100%" />
+## Let’s work together
+
+If you have a data project, an automation idea, or an opportunity to collaborate, feel free to contact me.
+
+- **LinkedIn:** [nasrallah-jidou](https://www.linkedin.com/in/nasrallah-jidou-6a3133374/)
+- **Email:** [nasserthebest9@gmail.com](mailto:nasserthebest9@gmail.com)
+- **GitHub:** [nasrallahjidou](https://github.com/nasrallahjidou)
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile.**
+
+![Profile views](https://komarev.com/ghpvc/?username=nasrallahjidou&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
